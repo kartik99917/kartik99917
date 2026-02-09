@@ -12,9 +12,6 @@ Currently Working On: <br>Compiler Design implementations, Python projects & DBM
 ![](https://nirzak-streak-stats.vercel.app/?user=kartik99917&theme=city_lights&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartik99917&theme=city_lights&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kartik99917&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
