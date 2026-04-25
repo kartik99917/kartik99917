@@ -319,16 +319,6 @@ const kartik: Developer = {
 
 <div align="center">
 
-<br/>
-
-### We are one click away ✦
-
-*Code is not just logic — it's craft. Let's build something meaningful together.* 🚀
-
-<br/>
-
-<img src="https://visitcount.itsvg.in/api?id=kartik99917&icon=0&color=0" alt="Visit Count"/>
-
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer Wave"/>
