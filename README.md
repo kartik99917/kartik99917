@@ -7,10 +7,10 @@
 <!-- ── Animated Waving Banner ── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Hello%2C%20I%20am%20Kartik%20Gawade&fontSize=42&fontColor=e2e8f0&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20No%20Code%20%2F%20No%20Life&descAlignY=58&descSize=16&descColor=94a3b8&animation=fadeIn" width="100%" alt="Header Banner"/>
 
-<!-- ── Profile Avatar ── -->
+<!-- ── Profile Avatar / GIF ── -->
 <br/>
-<img src="https://avatars.githubusercontent.com/u/188237135?v=4"
-     width="130"
+<img src="https://i.pinimg.com/originals/33/36/f1/3336f1806637b73fb5e21e3bf11e337e.gif"
+     width="180"
      style="border-radius:50%;border:3px solid #334155;"
      alt="Kartik Gawade"/>
 
@@ -157,6 +157,16 @@
 <!-- ════════════════════════════════════ -->
 
 <div align="center">
+
+<br/>
+
+### We are one click away ✦
+
+*Code is not just logic — it's craft. Let's build something meaningful together.* 🚀
+
+<br/>
+
+<img src="https://visitcount.itsvg.in/api?id=kartik99917&icon=0&color=0" alt="Visit Count"/>
 
 <br/><br/>
 
