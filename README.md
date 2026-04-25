@@ -35,73 +35,6 @@
 ---
 
 <!-- ════════════════════════════════════ -->
-<!--             ABOUT ME                -->
-<!-- ════════════════════════════════════ -->
-
-<div align="center">
-
-## `{ About Me }`
-
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="52%" valign="top">
-
-```ts
-const kartik: Developer = {
-  name:     "Kartik Gawade",
-  username: "kartik99917",
-  motto:    "No Code / No Life",
-
-  currentlyBuilding: [
-    "Compiler Design implementations",
-    "Python automation projects",
-    "DBMS applications",
-  ],
-
-  learning: [
-    "DSA — one problem at a time",
-    "Advanced Python patterns",
-    "Agile / Scrum methodologies",
-  ],
-
-  wantsHelpWith: [
-    "Advanced compiler optimization",
-    "Scalable project architecture",
-  ],
-
-  openTo: "Open-source & automation collabs",
-};
-```
-
-</td>
-<td width="48%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik99917&layout=compact&theme=transparent&hide_border=true&title_color=94a3b8&text_color=cbd5e1&bg_color=0f172a&langs_count=7&include_all_commits=true&count_private=true" alt="Top Languages" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-|  |  |
-|:---|:---|
-| 🔭 **Currently Building** | Compiler Design implementations, Python & DBMS apps |
-| 🌱 **Learning** | DSA, Advanced Python & Agile/Scrum methodologies |
-| 🤝 **Open to Collaborate** | Open-source projects & automation tools |
-| 🆘 **Seeking Help With** | Compiler optimization & scalable architecture |
-| ⚡ **Fun Fact** | I game on Steam & Xbox AND write compilers 🎮 |
-| 📍 **Competitive Platforms** | HackerRank · LeetCode |
-
-</div>
-
----
-
-<!-- ════════════════════════════════════ -->
 <!--          SKILLS / TOOLS             -->
 <!-- ════════════════════════════════════ -->
 
@@ -152,32 +85,6 @@ const kartik: Developer = {
 ![Unity](https://img.shields.io/badge/Unity-1e293b?style=for-the-badge&logo=unity&logoColor=e2e8f0)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-1e293b?style=for-the-badge&logo=unrealengine&logoColor=e2e8f0)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-1e293b?style=for-the-badge&logo=adobecreativecloud&logoColor=DA1F26)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════ -->
-<!--          GITHUB STATS               -->
-<!-- ════════════════════════════════════ -->
-
-<div align="center">
-
-## `{ GitHub Stats }`
-
-<img src="https://github-readme-stats.vercel.app/api?username=kartik99917&show_icons=true&theme=transparent&hide_border=true&title_color=94a3b8&text_color=cbd5e1&icon_color=64748b&bg_color=0f172a&rank_icon=github&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=kartik99917&theme=transparent&hide_border=true&stroke=1e293b&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&background=0f172a" height="165" alt="Streak Stats" />
-
-<br/><br/>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik99917&bg_color=0f172a&color=94a3b8&line=334155&point=64748b&area=true&area_color=1e293b&hide_border=true&radius=6" width="95%" alt="Contribution Activity Graph" />
-
-<br/>
-
-<!-- Top Contributed Repos -->
-<img src="https://github-contributor-stats.vercel.app/api?username=kartik99917&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&title_color=94a3b8&text_color=cbd5e1&bg_color=0f172a" width="60%" alt="Top Contributed Repos"/>
 
 </div>
 
@@ -246,78 +153,20 @@ const kartik: Developer = {
 ---
 
 <!-- ════════════════════════════════════ -->
-<!--         ANIMATED ELEMENT            -->
-<!-- ════════════════════════════════════ -->
-
-<div align="center">
-
-## `{ Dev Mode: ON }`
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation" />
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<!-- ════════════════════════════════════ -->
-<!--       COMPETITIVE PROFILES          -->
-<!-- ════════════════════════════════════ -->
-
-<div align="center">
-
-## `{ Competitive Coding }`
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-RA2311003012216-1e293b?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=0f172a)](https://www.hackerrank.com/profile/RA2311003012216)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-kg4409-1e293b?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f172a)](https://leetcode.com/u/kg4409/)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════ -->
-<!--          SOCIAL LINKS               -->
-<!-- ════════════════════════════════════ -->
-
-<div align="center">
-
-## `{ Let's Connect }`
-
-<p>Whether it's a collab, an open-source idea, or just saying hi — I'm one click away. 😶‍🌫️</p>
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-kartikgawade1001%40gmail.com-1e293b?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f172a)](mailto:kartikgawade1001@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kartik99917-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f172a)](https://linkedin.com/in/kartik99917)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-kartik99917-1e293b?style=for-the-badge&logo=github&logoColor=e2e8f0&labelColor=0f172a)](https://github.com/kartik99917)
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-kartik.999.17-1e293b?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=0f172a)](https://www.instagram.com/kartik.999.17/)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-kartik.gawade.999.17-1e293b?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0f172a)](https://www.facebook.com/kartik.gawade.999.17/)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-kartik.gawade-1e293b?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0f172a)](https://www.youtube.com/@kartik.gawade.1367)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-1e293b?style=for-the-badge&logo=discord&logoColor=7289DA&labelColor=0f172a)](https://discord.gg/PMFHa47v)
-&nbsp;
-[![X / Twitter](https://img.shields.io/badge/X-kartik99917-1e293b?style=for-the-badge&logo=x&logoColor=e2e8f0&labelColor=0f172a)](https://x.com/kartik99917)
-
-</div>
-
----
-
-<!-- ════════════════════════════════════ -->
 <!--             FOOTER                  -->
 <!-- ════════════════════════════════════ -->
 
 <div align="center">
+
+<br/>
+
+### We are one click away ✦
+
+*Code is not just logic — it's craft. Let's build something meaningful together.* 🚀
+
+<br/>
+
+<img src="https://visitcount.itsvg.in/api?id=kartik99917&icon=0&color=0" alt="Visit Count"/>
 
 <br/><br/>
 
