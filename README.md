@@ -13,45 +13,71 @@
 
 ---
 
-<!-- TECH STACK ICONS -->
-
-[![Tech Stack](https://skillicons.dev/icons?i=java,react,python,mysql,html,css,git,github,vscode&theme=dark)](https://skillicons.dev)
-
----
-
-<!-- CONNECT / SOCIAL LINKS -->
+<!-- ============================================================ -->
+<!--   CONNECT — links on top, theme-aware (dark + light mode)   -->
+<!-- ============================================================ -->
 
 <table>
   <tr>
+
+    <!-- GMAIL -->
     <td align="center">
       <a href="mailto:kartikgawade1001@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-kartikgawade1001%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=161b22&color=0d1117" />
+        <img src="https://img.shields.io/badge/Gmail-kartikgawade1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=161b22#gh-dark-mode-only" />
+        <img src="https://img.shields.io/badge/Gmail-kartikgawade1001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=f0f0f0&color=ffffff#gh-light-mode-only" />
       </a>
     </td>
+
+    <!-- LINKEDIN -->
     <td align="center">
       <a href="https://www.linkedin.com/in/kartik-gawade-48b824294/">
-        <img src="https://img.shields.io/badge/LinkedIn-kartikgawade-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=161b22&color=0d1117" />
+        <img src="https://img.shields.io/badge/LinkedIn-kartikgawade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117&color=161b22#gh-dark-mode-only" />
+        <img src="https://img.shields.io/badge/LinkedIn-kartikgawade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=f0f0f0&color=ffffff#gh-light-mode-only" />
       </a>
     </td>
+
+    <!-- HACKERRANK -->
     <td align="center">
       <a href="https://www.hackerrank.com/profile/RA2311003012216">
-        <img src="https://img.shields.io/badge/HackerRank-kartik99917-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=161b22&color=0d1117" />
+        <img src="https://img.shields.io/badge/HackerRank-kartik99917-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0d1117&color=161b22#gh-dark-mode-only" />
+        <img src="https://img.shields.io/badge/HackerRank-kartik99917-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=f0f0f0&color=ffffff#gh-light-mode-only" />
       </a>
     </td>
+
   </tr>
   <tr>
+
+    <!-- LEETCODE -->
     <td align="center">
       <a href="https://leetcode.com/u/kg4409/">
-        <img src="https://img.shields.io/badge/LeetCode-kg4409-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22&color=0d1117" />
+        <img src="https://img.shields.io/badge/LeetCode-kg4409-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117&color=161b22#gh-dark-mode-only" />
+        <img src="https://img.shields.io/badge/LeetCode-kg4409-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=f0f0f0&color=ffffff#gh-light-mode-only" />
       </a>
     </td>
+
+    <!-- GITHUB -->
     <td align="center">
       <a href="https://github.com/kartik99917">
-        <img src="https://img.shields.io/badge/GitHub-kartik99917-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=161b22&color=0d1117" />
+        <img src="https://img.shields.io/badge/GitHub-kartik99917-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=161b22#gh-dark-mode-only" />
+        <img src="https://img.shields.io/badge/GitHub-kartik99917-181717?style=for-the-badge&logo=github&logoColor=181717&labelColor=f0f0f0&color=ffffff#gh-light-mode-only" />
       </a>
     </td>
+
     <td></td>
+
   </tr>
 </table>
+
+---
+
+<!-- ============================================================ -->
+<!--   TECH STACK ICONS — below the links, theme-aware           -->
+<!-- ============================================================ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://skillicons.dev/icons?i=java,react,python,mysql,html,css,git,github,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,react,python,mysql,html,css,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,react,python,mysql,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
+</picture>
 
 </div>
