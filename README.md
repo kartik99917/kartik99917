@@ -1,6 +1,6 @@
 <div align="center">
 
-# Heyy, Its Kartik aka 〜乙enin
+# Heyy, It's Kartik aka 〜乙enin
 
 <img src="https://i.pinimg.com/originals/33/36/f1/3336f1806637b73fb5e21e3bf11e337e.gif" width="160" style="border-radius:50%;" alt="Kartik Gawade"/>
 
