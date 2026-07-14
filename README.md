@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gear-5th-b.gif" width="100%" alt="Banner"/>
+<img src="./isagi.gif" width="100%" alt="Banner"/>
 
 # 𝙷𝚎𝚢𝚢, 𝙸𝚝'𝚜 𝙺𝚊𝚛𝚝𝚒𝚔 𝚊𝚔𝚊 〜乙enin
 
