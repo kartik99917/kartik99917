@@ -2,7 +2,7 @@
 
 <img src="./isagi.gif" width="100%" alt="Banner"/>
 
-# 𝙷𝚎𝚢𝚢, 𝙸𝚝'𝚜 𝙺𝚊𝚛𝚝𝚒𝚔 𝚊𝚔𝚊 〜乙enin
+# 𝙷𝚒𝚒, 𝙸𝚝'𝚜 𝙺𝚊𝚛𝚝𝚒𝚔
 
 <img src="https://i.pinimg.com/originals/33/36/f1/3336f1806637b73fb5e21e3bf11e337e.gif" width="160" style="border-radius:50%;" alt="Kartik Gawade"/>
 
