@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./isagi.gif" width="100%" alt="Banner"/>
+<img src="./gear-5th.gif" width="50%" alt="Banner"/>
 
 # 𝙷𝚒𝚒, 𝙸𝚝'𝚜 𝙺𝚊𝚛𝚝𝚒𝚔
 
