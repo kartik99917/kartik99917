@@ -60,6 +60,12 @@ remaining_windows_today() {
 
 should_run_this_window() {
   local target completed remaining tasks_left windows_left threshold roll
+
+  if [[ "${MAINTENANCE_FORCE_RUN:-0}" == "1" ]]; then
+    log "MAINTENANCE_FORCE_RUN=1 set; forcing execution for this window."
+    return 0
+  fi
+
   target="$(target_tasks_for_today)"
   completed="$(completed_tasks_today)"
 
@@ -231,6 +237,11 @@ commit_if_changed() {
   last_subject="$(git log -1 --pretty=%s || true)"
   if [[ "${last_subject}" == "${commit_message}" ]]; then
     log "Last commit already has the same subject; avoiding duplicate commit."
+    return 0
+  fi
+
+  if [[ "${MAINTENANCE_DRY_RUN:-0}" == "1" ]]; then
+    log "MAINTENANCE_DRY_RUN=1 set; skipping commit and push."
     return 0
   fi
 
