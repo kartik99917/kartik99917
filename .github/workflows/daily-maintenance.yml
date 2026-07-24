@@ -1,4 +1,4 @@
-name: Daily Documentation Maintenance
+name: Daily Repository Health Maintenance
 
 on:
   schedule:
@@ -9,13 +9,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-documentation-maintenance
+  group: repository-health-maintenance
   cancel-in-progress: false
 
 jobs:
-  maintain-docs:
+  maintain-repo-health:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -23,11 +23,13 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Run deterministic documentation maintenance
+      - name: Run deterministic repository health maintenance
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: |
           set -euo pipefail
           chmod +x scripts/maintenance/run-maintenance.sh
+          chmod +x scripts/maintenance/maintain_docs.py
+          chmod +x scripts/maintenance/maintain_repo_health.py
           scripts/maintenance/run-maintenance.sh

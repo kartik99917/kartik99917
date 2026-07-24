@@ -1,0 +1,26 @@
+{
+  "documentation": {
+    "count": 1,
+    "markdown_files": [
+      "README.md"
+    ]
+  },
+  "maintenance": {
+    "automated": true,
+    "scope": [
+      "stale generated files",
+      "formatting",
+      "broken documentation references",
+      "repository metadata",
+      "dependency metadata",
+      "generated indexes",
+      "lint-fixable issues"
+    ],
+    "scripts": [
+      "scripts/maintenance/maintain_docs.py",
+      "scripts/maintenance/maintain_repo_health.py",
+      "scripts/maintenance/run-maintenance.sh"
+    ]
+  },
+  "schema_version": 1
+}
