@@ -2,7 +2,9 @@
 
 <img src="./gear-5th.gif" width="45%" alt="Banner1"/>
 
-# 𝙷𝚒𝚒, 𝙸𝚝'𝚜 𝙺𝚊𝚛𝚝𝚒𝚔
+# Hi, I'm Kartik 👋
+
+Aspiring software engineer focused on building reliable full-stack applications and improving developer workflows.
 
 <!-- <img src="https://i.pinimg.com/originals/33/36/f1/3336f1806637b73fb5e21e3bf11e337e.gif" width="160" style="border-radius:50%;" alt="Banner2"/> -->
 
