@@ -19,6 +19,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
 - [Core Skills](#core-skills)
+- [Featured Projects](#featured-projects)
 
 ## About Me
 
@@ -36,3 +37,7 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 - Backend: API development, database design, authentication flows
 - Frontend: Responsive interfaces, reusable components, UI accessibility
 - Tooling: Git workflows, debugging, testing, and documentation hygiene
+
+## Featured Projects
+
+- [Profile Repository](https://github.com/kartik99917/kartik99917): Ongoing improvements to documentation, automation, and repository quality standards.
