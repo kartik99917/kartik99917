@@ -22,6 +22,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [Featured Projects](#featured-projects)
 - [Current Focus](#current-focus)
 - [Open Source Contributions](#open-source-contributions)
+- [Learning Roadmap](#learning-roadmap)
 
 ## About Me
 
@@ -55,3 +56,9 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 - Improving repository documentation and contributor experience
 - Fixing quality issues through small, well-tested pull requests
 - Supporting community-driven project maintenance
+
+## Learning Roadmap
+
+- Deepen system design fundamentals for scalable applications
+- Improve backend performance tuning and query optimization
+- Expand practical knowledge of cloud-native deployment workflows
