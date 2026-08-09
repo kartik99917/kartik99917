@@ -17,7 +17,15 @@ Aspiring software engineer focused on building reliable full-stack applications 
 ## Table of Contents
 
 - [About Me](#about-me)
+- [Tech Stack](#tech-stack)
 
 ## About Me
 
 I enjoy solving practical engineering problems, shipping clean features, and continuously improving code quality through better testing and maintainability.
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
