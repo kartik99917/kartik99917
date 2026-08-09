@@ -21,6 +21,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [Core Skills](#core-skills)
 - [Featured Projects](#featured-projects)
 - [Current Focus](#current-focus)
+- [Open Source Contributions](#open-source-contributions)
 
 ## About Me
 
@@ -48,3 +49,9 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 - Strengthening problem-solving speed for data structures and algorithms
 - Building production-ready full-stack projects with reliable deployment practices
 - Improving code review quality and project maintainability
+
+## Open Source Contributions
+
+- Improving repository documentation and contributor experience
+- Fixing quality issues through small, well-tested pull requests
+- Supporting community-driven project maintenance
