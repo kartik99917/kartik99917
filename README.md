@@ -27,54 +27,56 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [Let's Collaborate](#lets-collaborate)
 - [Support](#support)
 
-## About Me
+## Profile
+
+### About Me
 
 I enjoy solving practical engineering problems, shipping clean features, and continuously improving code quality through better testing and maintainability.
 
-## Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## Core Skills
+### Core Skills
 
 - Backend: API development, database design, authentication flows
 - Frontend: Responsive interfaces, reusable components, UI accessibility
 - Tooling: Git workflows, debugging, testing, and documentation hygiene
 
-## Featured Projects
+### Featured Projects
 
 - [Profile Repository](https://github.com/kartik99917/kartik99917): Ongoing improvements to documentation, automation, and repository quality standards.
 
-## Current Focus
+### Current Focus
 
 - Strengthening problem-solving speed for data structures and algorithms
 - Building production-ready full-stack projects with reliable deployment practices
 - Improving code review quality and project maintainability
 
-## Open Source Contributions
+### Open Source Contributions
 
 - Improving repository documentation and contributor experience
 - Fixing quality issues through small, well-tested pull requests
 - Supporting community-driven project maintenance
 
-## Learning Roadmap
+### Learning Roadmap
 
 - Deepen system design fundamentals for scalable applications
 - Improve backend performance tuning and query optimization
 - Expand practical knowledge of cloud-native deployment workflows
 
-## Contact
+### Contact
 
 - GitHub: [@kartik99917](https://github.com/kartik99917)
 - Discussions: Open a discussion or issue in this repository
 
-## Let's Collaborate
+### Let's Collaborate
 
 If you're working on impactful open-source projects in full-stack development, feel free to connect and collaborate.
 
-## Support
+### Support
 
 If this profile repository or its templates help you, consider starring the repository to support ongoing improvements.
