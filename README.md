@@ -13,3 +13,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 <br/>
 
 </div>
+
+## About Me
+
+I enjoy solving practical engineering problems, shipping clean features, and continuously improving code quality through better testing and maintainability.
