@@ -18,6 +18,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 
 - [About Me](#about-me)
 - [Tech Stack](#tech-stack)
+- [Core Skills](#core-skills)
 
 ## About Me
 
@@ -29,3 +30,9 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## Core Skills
+
+- Backend: API development, database design, authentication flows
+- Frontend: Responsive interfaces, reusable components, UI accessibility
+- Tooling: Git workflows, debugging, testing, and documentation hygiene
