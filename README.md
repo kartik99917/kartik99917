@@ -2,13 +2,13 @@
 
 <img src="./gear-5th.gif" width="45%" alt="Animated Gear 5 themed profile banner"/>
 
-# Hi, I'm Kartik 👋
+# Hi, I'm Kartik
 
 Aspiring software engineer focused on building reliable full-stack applications and improving developer workflows.
 
 <!-- <img src="https://i.pinimg.com/originals/33/36/f1/3336f1806637b73fb5e21e3bf11e337e.gif" width="160" style="border-radius:50%;" alt="Decorative profile avatar animation"/> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+robust+full-stack+applications+%E2%9C%A6;Compiler+Design+%7C+Python+%7C+DBMS+%E2%9C%A6;DSA+grinder+%26+open-source+contributor+%E2%9C%A6;Always+learning%2C+always+shipping+%E2%9C%A6" alt="Animated text showing focus areas and learning mindset" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+robust+full-stack+applications;Compiler+Design+%7C+Python+%7C+DBMS;DSA+grinder+%26+open-source+contributor;Always+learning%2C+always+shipping" alt="Animated text showing focus areas and learning mindset" /></a>
 
 <br/>
 
