@@ -23,6 +23,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [Current Focus](#current-focus)
 - [Open Source Contributions](#open-source-contributions)
 - [Learning Roadmap](#learning-roadmap)
+- [Contact](#contact)
 
 ## About Me
 
@@ -62,3 +63,8 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 - Deepen system design fundamentals for scalable applications
 - Improve backend performance tuning and query optimization
 - Expand practical knowledge of cloud-native deployment workflows
+
+## Contact
+
+- GitHub: [@kartik99917](https://github.com/kartik99917)
+- Discussions: Open a discussion or issue in this repository
