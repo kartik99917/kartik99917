@@ -25,6 +25,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [Learning Roadmap](#learning-roadmap)
 - [Contact](#contact)
 - [Let's Collaborate](#lets-collaborate)
+- [Support](#support)
 
 ## About Me
 
@@ -73,3 +74,7 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 ## Let's Collaborate
 
 If you're working on impactful open-source projects in full-stack development, feel free to connect and collaborate.
+
+## Support
+
+If this profile repository or its templates help you, consider starring the repository to support ongoing improvements.
