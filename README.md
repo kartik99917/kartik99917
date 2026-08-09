@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gear-5th.gif" width="45%" alt="Animated Gear 5 themed profile banner"/>
+<img src="./banner-gear5-main.gif" width="45%" alt="Animated Gear 5 themed profile banner"/>
 
 # Hi, I'm Kartik
 
