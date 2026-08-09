@@ -10,8 +10,6 @@ Aspiring software engineer focused on building reliable full-stack applications 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=Building+robust+full-stack+applications;Compiler+Design+%7C+Python+%7C+DBMS;DSA+grinder+%26+open-source+contributor;Always+learning%2C+always+shipping" alt="Animated text showing focus areas and learning mindset" /></a>
 
-<br/>
-
 </div>
 
 ## Table of Contents
