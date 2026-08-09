@@ -20,6 +20,7 @@ Aspiring software engineer focused on building reliable full-stack applications 
 - [Tech Stack](#tech-stack)
 - [Core Skills](#core-skills)
 - [Featured Projects](#featured-projects)
+- [Current Focus](#current-focus)
 
 ## About Me
 
@@ -41,3 +42,9 @@ I enjoy solving practical engineering problems, shipping clean features, and con
 ## Featured Projects
 
 - [Profile Repository](https://github.com/kartik99917/kartik99917): Ongoing improvements to documentation, automation, and repository quality standards.
+
+## Current Focus
+
+- Strengthening problem-solving speed for data structures and algorithms
+- Building production-ready full-stack projects with reliable deployment practices
+- Improving code review quality and project maintainability
